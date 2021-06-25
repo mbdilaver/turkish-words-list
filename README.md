@@ -14,4 +14,6 @@ Then run the script
 $ python main.py
 ```
 
+You'll see words saved at `words.txt`.
+
 That's it.
